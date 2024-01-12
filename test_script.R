@@ -23,5 +23,6 @@ use_github()
 
 # how to push?
 # in R, press commit, commit to git, then press push on the same window in the top right
+# final note: you need to check the "staged" box to commit! 
 
 # pull is a buttong from top right corner in the Git window
