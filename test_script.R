@@ -22,7 +22,10 @@ use_github()
 # you can also create a reposityory on git, then in R use new project>versioncontrol>then from url
 
 # how to push?
-# in R, press commit, commit to git, then press push on the same window in the top right
-# final note: you need to check the "staged" box to commit! 
+# 1. save file with changes
+# 2. check the "staged" box to commit! 
+# 3. in Git window (top right), press commit, commit 
+# 4. press push on the same window in the top right
+# 5. check file commited on github! :)
 
 # pull is a buttong from top right corner in the Git window
